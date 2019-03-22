@@ -3,107 +3,107 @@
 {
 "id": "18",
 "name": "Audi",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=18&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D18"
 },
 {
 "id": "1",
 "name": "BMW",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=1&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D1"
 },
 {
 "id": "74",
 "name": "Citroen",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=74&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D74"
 },
 {
 "id": "56",
 "name": "Datsun",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=56&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D56"
 },
 {
 "id": "5",
 "name": "Ford",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=5&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D5"
 },
 {
 "id": "8",
 "name": "Hyundai",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=8&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D8"
 },
 {
 "id": "44",
 "name": "Jaguar",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=44&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D44"
 },
 {
 "id": "43",
 "name": "Jeep",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=43&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D43"
 },
 {
 "id": "70",
 "name": "Kia",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=70&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D70"
 },
 {
 "id": "23",
 "name": "Land Rover",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=23&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D23"
 },
 {
 "id": "9",
 "name": "Mahindra",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=9&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D9"
 },
 {
 "id": "10",
 "name": "Maruti Suzuki",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=10&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D10"
 },
 {
 "id": "11",
 "name": "Mercedes-Benz",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=11&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D11"
 },
 {
 "id": "72",
 "name": "MG",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=72&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D72"
 },
 {
 "id": "19",
 "name": "Porsche",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=19&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D19"
 },
 {
 "id": "45",
 "name": "Renault",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=45&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D45"
 },
 {
 "id": "15",
 "name": "Skoda",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=15&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D15"
 },
 {
 "id": "16",
 "name": "Tata",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=16&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D16"
 },
 {
 "id": "73",
 "name": "Tesla",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=73&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D73"
 },
 {
 "id": "20",
 "name": "Volkswagen",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=20&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D20"
 },
 {
 "id": "37",
 "name": "Volvo",
-"url": "http://www.carwale.com/api/UpComingCars?makeId=37&pageNo=1&pageSize=4"
+"url": "https://github.com/Harsh-gitx/CarAPI/blob/master/makeId%3D37"
 }
 ],
 "nextPageUrl": "http://www.carwale.com/api/UpComingCars?pageNo=2&pageSize=4"
