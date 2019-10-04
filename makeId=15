@@ -1,1 +1,26 @@
-{"upCommingCars":[{"carName":"Skoda Superb Facelift","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/39039/Skoda-Superb-Facelift-Exterior-152427.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/39039/Skoda-Superb-Facelift-Exterior-152427.jpg?wm=0&q=85","estimatedPrice":"26L - 34L","expectedLaunchDate":"Feb 2020","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1241&makeId=15","description":"Skoda will update its flagship Superb sedan later this year with a mid-life update. This comes three years after the current generation car was launched. The changes are minor but will be more than enough to give the car a new appearance.","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/39039/Skoda-Superb-Facelift-Exterior-152427.jpg?wm=0"},{"carName":"Skoda Karoq","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/29168/Skoda-Karoq-Right-Rear-Three-Quarter-97247.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/29168/Skoda-Karoq-Right-Rear-Three-Quarter-97247.jpg?wm=0&q=85","estimatedPrice":"18L - 25L","expectedLaunchDate":"Mar 2020","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1124&makeId=15","description":"Skoda has unveiled its Karoq crossover and this will vehicle will come to India in 2018. It is a compact vehicle and is a successor to the Skoda Yeti that was sold in India till last year. This is the second vehicle to join Skoda’s new SUV heavy line up and will be retailed to customers by the end of the year.","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/29168/Skoda-Karoq-Right-Rear-Three-Quarter-97247.jpg?wm=0"}]}
+{ 
+   "upCommingCars":[ 
+      { 
+         "carName":"Skoda Superb Facelift",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/39039/Skoda-Superb-Facelift-Exterior-152427.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/39039/Skoda-Superb-Facelift-Exterior-152427.jpg?wm=0&q=85",
+         "estimatedPrice":"26L",
+         "expectedLaunchDate":"Feb 2020",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1241&makeId=15",
+         "description":"Skoda will update its flagship Superb sedan later this year with a mid-life update. This comes three years after the current generation car was launched. The changes are minor but will be more than enough to give the car a new appearance.",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/39039/Skoda-Superb-Facelift-Exterior-152427.jpg?wm=0"
+      },
+      { 
+         "carName":"Skoda Karoq",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/29168/Skoda-Karoq-Right-Rear-Three-Quarter-97247.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/29168/Skoda-Karoq-Right-Rear-Three-Quarter-97247.jpg?wm=0&q=85",
+         "estimatedPrice":"18L",
+         "expectedLaunchDate":"Mar 2020",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1124&makeId=15",
+         "description":"Skoda has unveiled its Karoq crossover and this will vehicle will come to India in 2018. It is a compact vehicle and is a successor to the Skoda Yeti that was sold in India till last year. This is the second vehicle to join Skoda’s new SUV heavy line up and will be retailed to customers by the end of the year.",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/29168/Skoda-Karoq-Right-Rear-Three-Quarter-97247.jpg?wm=0"
+      }
+   ]
+}
