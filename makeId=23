@@ -1,1 +1,15 @@
-{"upCommingCars":[{"carName":"Land Rover New Range Rover Evoque","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/37721/Land-Rover-New-Range-Rover-Evoque-Exterior-145496.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/37721/Land-Rover-New-Range-Rover-Evoque-Exterior-145496.jpg?wm=0&q=85","estimatedPrice":"53L - 70L","expectedLaunchDate":"Jun 2019","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1230&makeId=23","description":"Range Rover revealed the new generation Evoque at a special event in London. The Baby Rangie entered into its second generation and has adopted Velar-inspired styling. It also gets a revised underpinning and a completely rejigged powertrain. The new-gen Evoque becomes the first Land Rover to get mild hybrid technology","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/37721/Land-Rover-New-Range-Rover-Evoque-Exterior-145496.jpg?wm=0"}]}
+{ 
+   "upCommingCars":[ 
+      { 
+         "carName":"Land Rover New Range Rover Evoque",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/37721/Land-Rover-New-Range-Rover-Evoque-Exterior-145496.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/37721/Land-Rover-New-Range-Rover-Evoque-Exterior-145496.jpg?wm=0&q=85",
+         "estimatedPrice":"53L",
+         "expectedLaunchDate":"Jun 2019",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1230&makeId=23",
+         "description":"Range Rover revealed the new generation Evoque at a special event in London. The Baby Rangie entered into its second generation and has adopted Velar-inspired styling. It also gets a revised underpinning and a completely rejigged powertrain. The new-gen Evoque becomes the first Land Rover to get mild hybrid technology",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/37721/Land-Rover-New-Range-Rover-Evoque-Exterior-145496.jpg?wm=0"
+      }
+   ]
+}
