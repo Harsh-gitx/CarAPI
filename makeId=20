@@ -1,1 +1,37 @@
-{"upCommingCars":[{"carName":"Volkswagen Next Generation Vento","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/26563/Volkswagen-Vento-Facelift-Exterior-127621.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/26563/Volkswagen-Vento-Facelift-Exterior-127621.jpg?wm=0&q=85","estimatedPrice":"8L - 14L","expectedLaunchDate":"Jul 2019","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1062&makeId=20","description":"Vento, the C-segment contender from Volkswagen, was introduced in India back in 2010. In the last seven years, the Vento has received four updates and the fifth one is expected to be introduced this year. Like all other changes, even this one will be largely cosmetic and aimed at making the car look modern and contemporary.","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/26563/Volkswagen-Vento-Facelift-Exterior-127621.jpg?wm=0"},{"carName":"Volkswagen New Polo","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/29628/Volkswagen-Polo-2018-Exterior-99675.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/29628/Volkswagen-Polo-2018-Exterior-99675.jpg?wm=0&q=85","estimatedPrice":"8L - 12L","expectedLaunchDate":"Jan 2020","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1126&makeId=20","description":"Volkswagen launched the Polo in the Indian market in the year 2010. The Polo was Volkswagen’s first offering in the premium hatchback segment in India and ever since then the manufacturer has made timely updates to its appearance and the power train. Recently, Volkswagen launched the 2018 Polo and the vehicle made its global debut at an event in Berlin, Germany.","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/29628/Volkswagen-Polo-2018-Exterior-99675.jpg?wm=0"},{"carName":"Volkswagen T-Cross","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/31177/Volkswagen-TCross-Exterior-127653.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/31177/Volkswagen-TCross-Exterior-127653.jpg?wm=0&q=85","estimatedPrice":"12L - 16L","expectedLaunchDate":"Mar 2020","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1135&makeId=20","description":"Volkswagen, in 2015, had announced that it would be introducing SUVs across its entire range within the next few years. It has taken a trickle-down approach and after introducing the big SUVs in Europe, America and China, it has now put on sale the Golf-based T-Roc SUV.","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/31177/Volkswagen-TCross-Exterior-127653.jpg?wm=0"}]}
+{ 
+   "upCommingCars":[ 
+      { 
+         "carName":"Volkswagen Next Generation Vento",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/26563/Volkswagen-Vento-Facelift-Exterior-127621.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/26563/Volkswagen-Vento-Facelift-Exterior-127621.jpg?wm=0&q=85",
+         "estimatedPrice":"8L",
+         "expectedLaunchDate":"Jul 2019",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1062&makeId=20",
+         "description":"Vento, the C-segment contender from Volkswagen, was introduced in India back in 2010. In the last seven years, the Vento has received four updates and the fifth one is expected to be introduced this year. Like all other changes, even this one will be largely cosmetic and aimed at making the car look modern and contemporary.",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/26563/Volkswagen-Vento-Facelift-Exterior-127621.jpg?wm=0"
+      },
+      { 
+         "carName":"Volkswagen New Polo",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/29628/Volkswagen-Polo-2018-Exterior-99675.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/29628/Volkswagen-Polo-2018-Exterior-99675.jpg?wm=0&q=85",
+         "estimatedPrice":"8L",
+         "expectedLaunchDate":"Jan 2020",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1126&makeId=20",
+         "description":"Volkswagen launched the Polo in the Indian market in the year 2010. The Polo was Volkswagen’s first offering in the premium hatchback segment in India and ever since then the manufacturer has made timely updates to its appearance and the power train. Recently, Volkswagen launched the 2018 Polo and the vehicle made its global debut at an event in Berlin, Germany.",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/29628/Volkswagen-Polo-2018-Exterior-99675.jpg?wm=0"
+      },
+      { 
+         "carName":"Volkswagen T-Cross",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/31177/Volkswagen-TCross-Exterior-127653.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/31177/Volkswagen-TCross-Exterior-127653.jpg?wm=0&q=85",
+         "estimatedPrice":"12L",
+         "expectedLaunchDate":"Mar 2020",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1135&makeId=20",
+         "description":"Volkswagen, in 2015, had announced that it would be introducing SUVs across its entire range within the next few years. It has taken a trickle-down approach and after introducing the big SUVs in Europe, America and China, it has now put on sale the Golf-based T-Roc SUV.",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/31177/Volkswagen-TCross-Exterior-127653.jpg?wm=0"
+      }
+   ]
+}
