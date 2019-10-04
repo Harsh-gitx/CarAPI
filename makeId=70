@@ -1,1 +1,26 @@
-{"upCommingCars":[{"carName":"Kia SP","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/33372/Kia-SP-Exterior-121003.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/33372/Kia-SP-Exterior-121003.jpg?wm=0&q=85","estimatedPrice":"14L - 20L","expectedLaunchDate":"Jul 2019","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1172&makeId=70","description":"The first car that Kia will bring to India will be the SP concept in production guise. This will be a premium D-segment SUV and conveys that Kia is taking a top- down approach with regard to India.","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/33372/Kia-SP-Exterior-121003.jpg?wm=0"},{"carName":"Kia Rio","largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/34131/Kia-Rio-Exterior-125798.jpg?wm=0&q=85","smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/34131/Kia-Rio-Exterior-125798.jpg?wm=0&q=85","estimatedPrice":"6L - 10L","expectedLaunchDate":"Jan 2020","detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1178&makeId=70","description":"Kia is coming to India and it will make its arrival here in a big way. The South Korean automaker is investing 1.1 billion USD","hostUrl":"https://imgd.aeplcdn.com/","originalImgPath":"/cw/ec/34131/Kia-Rio-Exterior-125798.jpg?wm=0"}]}
+{ 
+   "upCommingCars":[ 
+      { 
+         "carName":"Kia SP",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/33372/Kia-SP-Exterior-121003.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/33372/Kia-SP-Exterior-121003.jpg?wm=0&q=85",
+         "estimatedPrice":"14L",
+         "expectedLaunchDate":"Jul 2019",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1172&makeId=70",
+         "description":"The first car that Kia will bring to India will be the SP concept in production guise. This will be a premium D-segment SUV and conveys that Kia is taking a top- down approach with regard to India.",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/33372/Kia-SP-Exterior-121003.jpg?wm=0"
+      },
+      { 
+         "carName":"Kia Rio",
+         "largePicUrl":"https://imgd.aeplcdn.com/210x118/cw/ec/34131/Kia-Rio-Exterior-125798.jpg?wm=0&q=85",
+         "smallpicUrl":"https://imgd.aeplcdn.com/110x61/cw/ec/34131/Kia-Rio-Exterior-125798.jpg?wm=0&q=85",
+         "estimatedPrice":"6L",
+         "expectedLaunchDate":"Jan 2020",
+         "detailUrl":"http://www.carwale.com/api/UpComingCarDetail?id=1178&makeId=70",
+         "description":"Kia is coming to India and it will make its arrival here in a big way. The South Korean automaker is investing 1.1 billion USD",
+         "hostUrl":"https://imgd.aeplcdn.com/",
+         "originalImgPath":"/cw/ec/34131/Kia-Rio-Exterior-125798.jpg?wm=0"
+      }
+   ]
+}
