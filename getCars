@@ -9,12 +9,7 @@
 "id": "1",
 "name": "BMW",
 "url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D1"
-},
-{
-"id": "56",
-"name": "Datsun",
-"url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D56"
-},
+}
 {
 "id": "5",
 "name": "Ford",
