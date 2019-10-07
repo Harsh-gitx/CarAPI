@@ -11,11 +11,6 @@
 "url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D1"
 },
 {
-"id": "74",
-"name": "Citroen",
-"url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D74"
-},
-{
 "id": "56",
 "name": "Datsun",
 "url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D56"
@@ -66,11 +61,6 @@
 "url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D11"
 },
 {
-"id": "72",
-"name": "MG",
-"url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D72"
-},
-{
 "id": "19",
 "name": "Porsche",
 "url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D19"
@@ -89,11 +79,6 @@
 "id": "16",
 "name": "Tata",
 "url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D16"
-},
-{
-"id": "73",
-"name": "Tesla",
-"url": "https://raw.githubusercontent.com/Harsh-gitx/CarAPI/master/makeId%3D73"
 },
 {
 "id": "20",
